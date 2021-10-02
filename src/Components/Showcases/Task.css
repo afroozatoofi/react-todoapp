@@ -1,0 +1,10 @@
+a{
+    cursor: pointer;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.rtl{
+    text-align: right;
+    direction: rtl;
+    margin-top: -20px;
+}
